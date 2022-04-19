@@ -1,0 +1,32 @@
+[
+    {
+        "mcqquestion": "Which concept relates to this definition ‘transforming incoming information into a form that can be stored in memory:",
+        "mcqoptions": ["Duration", "Capacity", "Encoding"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the following psychologists investigated the duration of long-term memory:",
+        "mcqoptions": ["Bahrick et al", "Baddeley", "Peterson and Peterson"],
+        "mcqanswer": 0,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the following factors are NOT related to the accuracy of eyewitness testimony:",
+        "mcqoptions": ["Leading questions", "Age", "Post-event discussion"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Information stored with reference to time and place refers to which type of memory:",
+        "mcqoptions": ["Episodic memory", "Procedural memory", "Semantic memory"],
+        "mcqanswer": 0,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which evaluative statement about the cognitive interview is correct:",
+        "mcqoptions": ["Can only be used in Western cultures", "Requires special police training", "Cannot be used to interview children"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+]

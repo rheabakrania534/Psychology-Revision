@@ -1,0 +1,32 @@
+[
+    {
+        "mcqquestion": "If a researcher wanted to establish a difference between males and females on an intelligence test, is this:",
+        "mcqoptions": ["A field experiment", "A natural experiment", "A quasi experiment"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "What difference does this statements describe ‘in one the participant knows they are being observed, whereas, in the other, the participant does not know':",
+        "mcqoptions": ["Naturalistic and controlled observations", "Overt and covert observations", "Participant and non-participant observations"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "In a set of data the following values are given, mean = 10, mode = 12 and median = 11. What type of distribution is this:",
+        "mcqoptions": ["Normal distribution", "Positive skew", "Negative skew"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of these two statements describes a type two error:",
+        "mcqoptions": ["When the researcher accepts their experimental hypothesis when they should have rejected it", "When a researcher rejects their experimental hypothesis when they should have accepted it", "When a researcher accepts their null hypothesis"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "A paradigm shift is:",
+        "mcqoptions": ["A shared set of assumptions and methods", "When psychologists diagree with one another", "When an accepted way of thinking about something is replaced by a new one"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "mcqquestion": "Which phrase best describes internalisation:",
+        "mcqoptions": ["The individual adopts a role as a member of a group", "The individual changes their beliefs temporarily", "The individual changes their private and public beliefs"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the following statement best describes the agentic state:",
+        "mcqoptions": ["People feel responsible for their actions and act according to their own principals", "People no longer feel responsible for their actions as they are acting for an authority figure", "People make others feel responsible for their actions"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of these is NOT a variation of Asch’s experiment:",
+        "mcqoptions": ["Task diffciulty", "Uniform", "Unanimity"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Zimbardo’s Stanford Prison Experiment is an example of which factor:",
+        "mcqoptions": ["Conformity to social roles", "Obedience", "Normative social influence"],
+        "mcqanswer": 0,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the following is NOT a feature of the authoritarian personality:",
+        "mcqoptions": ["Inflexible viewpoints", "Develops from harsh parenting", "Disobedience to authority"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+]

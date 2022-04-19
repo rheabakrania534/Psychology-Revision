@@ -1,0 +1,32 @@
+[
+    {
+        "mcqquestion": "Which one of the following statements is false:",
+        "mcqoptions": ["The id is responsible for pleasure-seeking behaviour", "The id is responsible for unreasonable behaviour", "The superego is responsible for bad behaviour"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the psychologists is best known in relation to the emergence of psychology as a science:",
+        "mcqoptions": ["Pavlov", "Skinner", "Wundt"],
+        "mcqanswer": 2,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the following best describes identification as a feature of social learning:",
+        "mcqoptions": ["Wanting to be like another person", "Watching another person", "Copying another person"],
+        "mcqanswer": 0,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "A phenotype is the result often combined effect of:",
+        "mcqoptions": ["Neurotransmitters and environment", "Inheritance and environment", "Genetic makeup and neurotransmitters"],
+        "mcqanswer": 1,
+        "mcqmarksAwarded": 1
+     },
+    {
+        "mcqquestion": "Which of the following best describes the aim of cognitive neuroscience:",
+        "mcqoptions": ["To relate mental processes to brain structures", "To relate theoretical models to mental processes", "To use biological terms to explain behaviour"],
+        "mcqanswer": 0,
+        "mcqmarksAwarded": 1
+     },
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Explain one reason as to why schemas might be useful when processing information, and one reason why schemas may be unhelpful when processing information (4 marks):",
+        "answer": "The answer should refer to at least four of the following points - Schemas help predict what will happen in the world based on experiences, they enable us to predict vast amounts of information from becoming overwhelmed by environmental stimuli, schemas may distort out interpretation, they can lead to perceptual errors, can cause biased recall, faulty schemas may have negative effects on mental health",
+        "marksAwarded": 4
+     },
+    {
+        "question": "A recent study shows that Alzheimer's disease may be partly inherited. Sam’s mother suffered from this condition, and so Sam is kept to get genetically tested. Explain why Sam’s genotype will not reveal whether he is vulnerable (4 marks):",
+        "answer": "The answer should refer to at least four of the following points - The test will reveal Sam’s genotype, this will reveal his set of genes and not their environmental interaction, genetic test will reveal if he is predisposed, this won't reveal if he will suffer form the condition, environmental factors may contribute to the disorder, it depends on the interaction between inherited factors and the environment",
+        "marksAwarded": 4
+     },
+    {
+        "question": "Outline what is meant by cognitive neuroscience and describe one practical application of cognitive neuroscience (3 marks):",
+        "answer": "The answer should refer to at least three of the following points - Cognitive neuroscience is the scientific study of brain structures, mechanisms, applications include the use of scanning techniques to locate different types of memory in areas of the brain leading to treatment, use of imaging techniques to study mental processing in patients with depression or OCD, use of computer simulations to test theories or hypotheses about mental processing",
+        "marksAwarded": 3
+     },
+]

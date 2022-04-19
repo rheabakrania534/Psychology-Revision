@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Outline one difference between EEG’s and ERP’s (2 marks):",
+        "answer": "The answer should refer to at least two of the following points - An EEG records general brain activity linked to states such as sleep and arousal, whereas ERP’s are elicited by specific stimuli presented to the participant (such as a sound or image)",
+        "marksAwarded": 2
+     },
+    {
+        "question": "What is synaptic pruning in terms of brain plasticity (2 marks):",
+        "answer": "The answer should vaguely resemble the following point - The process of synaptic pruning refers to rarely used brain connections being deleted, and frequently used connections being strengthened",
+        "marksAwarded": 2
+     },
+    {
+        "question": "Briefly outline Sperry’s research into split-brain patients (4 marks):",
+        "answer": "The answer should refer to at least four of the following points - Patients had all undergone a split-brain procedure where the corpus callosum and surrounding tissues were cut, the communication between both hemispheres was removed, psychologists investigated the extent to which the hemispheres were specialised for certain functions, the procedure was used as a treatment for severe epilepsy, the task involved projecting an image/work to the left or right visual field, investigations into what the patient could see, feel, or hear were conducted",
+        "marksAwarded": 4
+     },
+]
