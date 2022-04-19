@@ -10,7 +10,7 @@ import SwiftUI
 
 struct FinalPageView: View {
     var body: some View {
-        Text("Congratulations Idiot!")
+        Text("Congratulations")
         
         
         //Allows Header To Be Displayed
